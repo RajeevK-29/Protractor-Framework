@@ -17,7 +17,7 @@ describe('calculator ', function(){
         // expect(result.getText()).toEqual('9');
          action.verify('9')
 
-        browser.sleep(5000);
+        browser.sleep(3000);
 
      });
 
